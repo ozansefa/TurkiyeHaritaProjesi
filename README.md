@@ -8,6 +8,6 @@ Mouse'ınız ile illerin üzerine geldiğinizde illerin nufüs ve adlarını gö
 
 ![](TurkiyeHaritasi/images/2.png)
 
-İlin üzerine bastığınızda ile ait wikipedia sayfasına yönlendiriliyorsunuz.
+İlin üzerine bastığınızda o ile ait wikipedia sayfasına yönlendiriliyorsunuz.
 
 ![](TurkiyeHaritasi/images/3.png)
